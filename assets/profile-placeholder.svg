@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#e8edf2"/><rect x="85" y="85" width="1030" height="630" rx="38" fill="#f8fafb" stroke="#cfd7df" stroke-width="3" stroke-dasharray="14 14"/>
+<rect x="475" y="230" width="250" height="180" rx="22" fill="#d9e0e7"/><circle cx="600" cy="320" r="42" fill="#c0cad4"/>
+<path d="M515 470h170" stroke="#c0cad4" stroke-width="24" stroke-linecap="round"/>
+<text x="600" y="590" text-anchor="middle" font-family="Arial" font-size="34" font-weight="700" fill="#17365d">PROFILE PHOTO</text>
+<text x="600" y="640" text-anchor="middle" font-family="Arial" font-size="22" fill="#69727d">Replace with your own image</text></svg>
